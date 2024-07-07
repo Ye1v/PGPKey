@@ -1,0 +1,3 @@
+# PGP publickey
+
+fingerprint: 033C 935C 9223 B1F4 845E  65E9 5356 6161 C88B 7253
